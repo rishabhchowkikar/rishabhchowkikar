@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFrd251eDljMjZocTlydmx6ejF4ZHY4YWpocGJqY2cybjJhdTR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmprOWphdTZsdGo5NmFqaGY2OWZ3cHA3bGp4am9yMndkY2VmZTlycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1m4ukmk9Lu90At2FGu/giphy.gif" width="300" />
 </div>
 
 <br/>
@@ -102,16 +102,6 @@
 
 <br/>
 
-## 💻 Featured Projects
-
-<div align="center">
-  <a href="https://student-management-system-frontend-self.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhchowkikar&repo=student-management-system&theme=tokyonight&hide_border=true" alt="Student Management System" />
-  </a>
-</div>
-
-<br/>
-
 ## 🎯 Current Focus
 
 - 🔥 Building scalable web applications with **MERN Stack**
@@ -129,3 +119,5 @@
   <h3>Thanks for visiting! 😊</h3>
   <p>Feel free to connect with me and explore my projects!</p>
 </div>
+
+

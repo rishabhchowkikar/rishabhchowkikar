@@ -24,6 +24,7 @@ const rishabh = {
     code: ["JavaScript", "TypeScript", "Python", "C++"],
     technologies: {
         frontEnd: {
+            js: ["JavaScript (ES6+)", "TypeScript"],
             frameworks: ["React", "Next.js"],
             styling: ["Tailwind CSS", "SASS", "Bootstrap"],
             mobile: ["React Native"]
@@ -46,40 +47,17 @@ const rishabh = {
 
 ## 🔥 Current Focus
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
-      <br><br>
-      <b>🚀 Building</b>
-      <br>
-      Scalable web apps with MERN Stack
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
-      <br><br>
-      <b>📱 Exploring</b>
-      <br>
-      Mobile development with React Native
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200">
-      <br><br>
-      <b>⚡ Mastering</b>
-      <br>
-      Next.js for SSR & Performance
-    </td>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200">
-      <br><br>
-      <b>🎨 Improving</b>
-      <br>
-      UI/UX Design Skills
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🚀 **Building** | 📱 **Exploring** |
+|:---:|:---:|
+| <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="120"><br>**Scalable Web Apps**<br>with MERN Stack | <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="120"><br>**Mobile Development**<br>with React Native |
+| **⚡ Mastering** | **🎨 Improving** |
+| <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"><br>**Next.js**<br>SSR & Performance | <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120"><br>**UI/UX Design**<br>Skills |
+| **💻 JavaScript** | **🛠️ Technologies** |
+| <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120"><br>**Vanilla JS & ES6+**<br>Modern JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="120"><br>**Building Dynamic**<br>Web Experiences |
+
+</div>
 
 ---
 
@@ -120,16 +98,16 @@ const rishabh = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishabhchowkikar&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhchowkikar&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishabhchowkikar&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabhchowkikar&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhchowkikar&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rishabhchowkikar&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhchowkikar&custom_title=Rishabh's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhchowkikar&custom_title=Rishabh's%20Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -137,7 +115,7 @@ const rishabh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhchowkikar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhchowkikar&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -181,7 +159,7 @@ const rishabh = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/rishabhchowkikar/rishabhchowkikar/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/rishabhchowkikar/rishabhchowkikar/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

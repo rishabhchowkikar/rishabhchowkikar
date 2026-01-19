@@ -195,9 +195,60 @@ const rishabh = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
-[![Student Management System](https://github-readme-stats.vercel.app/api/pin/?username=rishabhchowkikar&repo=student-management-system-frontend&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://student-management-system-frontend-self.vercel.app/)
+### 🎓 CUH University Management System
+[![Admin Portal](https://github-readme-stats.vercel.app/api/pin/?username=rishabhchowkikar&repo=admin.std-portal&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/rishabhchowkikar/admin.std-portal)
+
+**Complete Role-Based Ecosystem** | Next.js 14 • MongoDB • JWT Auth • Razorpay Integration
+
+A comprehensive university management platform with three distinct portals (Admin/Teacher/Student) managing academic records, hostel allocation, attendance tracking, exam schedules, fee payments, and more. Features include multi-level authorization, real-time notifications, ticket system, and complete CRUD operations with error handling.
+
+**🔑 Key Features:**
+- 🏢 **Admin Portal**: Complete control over students, teachers, courses, hostels, and fees
+- 👨‍🏫 **Teacher Dashboard**: Attendance marking, grade management, and student monitoring
+- 👨‍🎓 **Student Portal**: View schedules, pay fees, check results, and raise support tickets
+- 💳 **Payment Integration**: Razorpay gateway with transaction tracking (10+ test transactions)
+- 🔐 **Secure Authentication**: JWT + Cookie-based auth with role-based access control
+
+**⚙️ Tech Stack:** Next.js 14, Tailwind CSS, Shadcn/UI, Node.js, Express.js, MongoDB, Razorpay
+
+---
+
+### 💬 Connectify - Real-Time Chat Application
+[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=rishabhchowkikar&repo=Real-time-chat-application&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)](https://github.com/rishabhchowkikar/Real-time-chat-application)
+
+**Real-Time Messaging Platform** | React.js • Socket.IO • MongoDB • Cloudinary
+
+A modern full-stack chat application supporting private messaging, online status indicators, typing indicators, theme customization, and image sharing. Built with real-time WebSocket communication handling 50+ concurrent messages with seamless performance across all devices.
+
+**🔑 Key Features:**
+- 💬 **Real-Time Messaging**: Instant message delivery using Socket.IO
+- 📱 **Fully Responsive**: Optimized for mobile, tablet, and desktop
+- 🟢 **Online Status**: Live user presence indicators
+- ✍️ **Typing Indicators**: See when someone is typing
+- 🎨 **Theme Support**: Multiple theme options for personalization
+- 📸 **Image Sharing**: Upload and share images via Cloudinary
+- 🔒 **Secure**: JWT authentication with encrypted communication
+
+**⚙️ Tech Stack:** React.js, Node.js, Express.js, Socket.IO, MongoDB, Cloudinary, JWT
+
+---
+
+### 🍳 Forkify - Recipe Search & Bookmark Platform
+**Smart Recipe Discovery App** | Vanilla JavaScript • MVC Architecture
+
+A feature-rich recipe application fetching 100+ recipes from a public API with advanced search, pagination, bookmarking capabilities, and a custom serving-size calculator. Built with clean MVC architecture using pure JavaScript ES6+ without any frameworks.
+
+**🔑 Key Features:**
+- 🔍 **Smart Search**: Find recipes from extensive database with real-time results
+- 📖 **Pagination**: Easy navigation through search results
+- ⭐ **Bookmarks**: Save favorite recipes for quick access
+- 🍽️ **Serving Calculator**: Automatically adjust ingredients based on servings
+- 🎯 **MVC Pattern**: Clean, maintainable code architecture
+- 📱 **Responsive Design**: Works flawlessly on all screen sizes
+
+**⚙️ Tech Stack:** Vanilla JavaScript (ES6+), Fetch API, Parcel, Babel
 
 </div>
 

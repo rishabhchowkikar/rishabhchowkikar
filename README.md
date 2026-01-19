@@ -177,7 +177,18 @@ const rishabh = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhchowkikar&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+| 🌟 **Achievement** | 📊 **Status** |
+|:---:|:---:|
+| **Total Stars** | ![Stars](https://img.shields.io/github/stars/rishabhchowkikar?style=for-the-badge&logo=github&color=yellow) |
+| **Total Commits (2024)** | ![Commits](https://img.shields.io/badge/2024-249_commits-blue?style=for-the-badge&logo=git) |
+| **Total PRs** | ![PRs](https://img.shields.io/badge/PRs-12-green?style=for-the-badge&logo=github) |
+| **Total Issues** | ![Issues](https://img.shields.io/badge/Issues-0-red?style=for-the-badge&logo=github) |
+| **Contributed to** | ![Repos](https://img.shields.io/badge/Repositories-0-purple?style=for-the-badge&logo=github) |
+
+### 🎯 Highlights
+[![An image of @rishabhchowkikar's Holopin badges](https://holopin.me/rishabhchowkikar)](https://holopin.io/@rishabhchowkikar)
+
 </div>
 
 ---

@@ -19,26 +19,51 @@
 
 ```typescript
 const rishabh = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
+    location: "Rewari, Haryana, India 🇮🇳",
+    role: "Frontend Developer @ Safe Ledger Pvt. Ltd. (RegisterKaro)",
+    experience: "1 year professional experience",
+    education: "B.Tech in CSE | CGPA: 8.2/10.0",
+    
     code: ["JavaScript", "TypeScript", "Python", "C++"],
+    
     technologies: {
         frontEnd: {
-            js: ["JavaScript (ES6+)", "TypeScript"],
-            frameworks: ["React", "Next.js"],
-            styling: ["Tailwind CSS", "SASS", "Bootstrap"],
-            mobile: ["React Native"]
+            core: ["React.js", "Next.js 14 (App Router, SSR)"],
+            state: ["Redux Toolkit", "Zustand"],
+            styling: ["Tailwind CSS", "SASS", "Shadcn/UI", "Framer Motion", "Material UI", "Bootstrap"],
+            skills: ["Responsive Design", "SEO Optimization", "Performance Tuning"]
         },
         backEnd: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js"],
-            databases: ["MongoDB", "MySQL"],
-            cloud: ["Appwrite"]
+            runtime: ["Node.js", "Express.js"],
+            apis: ["REST API Design", "WordPress Headless CMS Integration"],
+            auth: ["JWT Authentication", "Cookie-based Auth"],
+            realTime: ["Socket.IO"]
         },
-        tools: ["Git", "Postman", "Framer"]
+        databases: ["MongoDB", "MySQL"],
+        cloud: ["AWS (EC2, S3)", "Vercel", "Render"],
+        tools: ["Git/GitHub", "Docker", "GitHub Actions (CI/CD)", "Postman", "Figma", "VS Code"]
     },
-    currentProject: "Student Management System",
-    learning: ["Next.js", "React Native", "Advanced System Design"],
+    
+    currentWork: {
+        company: "Safe Ledger Pvt. Ltd.",
+        projects: ["registerkaro.in (100K+ monthly users)", "safeledger.ae"],
+        achievements: [
+            "Built 25+ production-ready responsive pages",
+            "Integrated WordPress CMS managing 30+ sections",
+            "Improved SEO rankings for 15+ keywords",
+            "150+ PRs authored/reviewed"
+        ]
+    },
+    
+    expertise: [
+        "Production-grade web applications",
+        "Headless CMS integration",
+        "SEO & performance optimization",
+        "Agile workflows & team collaboration",
+        "Clean, maintainable, scalable code"
+    ],
+    
+    learning: ["Advanced Next.js patterns", "System Design", "DevOps practices"],
     funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
 ```
@@ -49,13 +74,50 @@ const rishabh = {
 
 <div align="center">
 
-| 🚀 **Building** | 📱 **Exploring** |
-|:---:|:---:|
-| <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="120"><br>**Scalable Web Apps**<br>with MERN Stack | <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="120"><br>**Mobile Development**<br>with React Native |
-| **⚡ Mastering** | **🎨 Improving** |
-| <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"><br>**Next.js**<br>SSR & Performance | <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120"><br>**UI/UX Design**<br>Skills |
-| **💻 JavaScript** | **🛠️ Technologies** |
-| <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120"><br>**Vanilla JS & ES6+**<br>Modern JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="120"><br>**Building Dynamic**<br>Web Experiences |
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="100"><br>
+<strong>🚀 Building Scalable Web Apps</strong><br>
+<sub>Creating full-stack applications with MERN Stack</sub><br>
+<code>React</code> <code>Node.js</code> <code>MongoDB</code>
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><br>
+<strong>📱 Mobile Development Journey</strong><br>
+<sub>Exploring cross-platform apps with React Native</sub><br>
+<code>React Native</code> <code>Expo</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><br>
+<strong>⚡ Mastering Next.js</strong><br>
+<sub>Server-Side Rendering & Performance Optimization</sub><br>
+<code>Next.js 14</code> <code>SSR</code> <code>SEO</code>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+<strong>🎨 UI/UX Enhancement</strong><br>
+<sub>Creating beautiful, intuitive user experiences</sub><br>
+<code>Figma</code> <code>Tailwind</code> <code>Framer Motion</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"><br>
+<strong>💻 Modern JavaScript</strong><br>
+<sub>Deep diving into ES6+ features & best practices</sub><br>
+<code>ES6+</code> <code>Async/Await</code> <code>Promises</code>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<strong>🔧 Backend Mastery</strong><br>
+<sub>Building robust APIs & database architectures</sub><br>
+<code>Express.js</code> <code>REST API</code> <code>JWT</code>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -103,7 +165,7 @@ const rishabh = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rishabhchowkikar&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhchowkikar&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -112,10 +174,10 @@ const rishabh = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhchowkikar&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhchowkikar&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -150,16 +212,6 @@ const rishabh = {
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/rishabhchowkikar/rishabhchowkikar/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

@@ -263,7 +263,7 @@ A feature-rich recipe application fetching 100+ recipes from a public API with a
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hey_rc_here)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.com/rishabhchowkikar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhchowkikar02@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1R1wlkTZ2ccwSffWwk-V6qDh-qVQR0YG-/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1MMEdJSZMilWq00qf_X_JcTjg_vEQwsCk/view?usp=sharing)
 
 </div>
 
